@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://celestialabyss.github.io/entropy/sitemap.xml
